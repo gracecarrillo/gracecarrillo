@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=gracecarrillo&langs_count=10&layout=compact&theme=radical" alt="gracecarrillo" /></p>
 
-<p>&nbsp;<img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracecarrillo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="gracecarrillo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gracecarrillo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="gracecarrillo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gracecarrillo&" alt="gracecarrillo" /></p>
 
