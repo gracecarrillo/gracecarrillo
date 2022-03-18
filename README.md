@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">Co-founder at Strikes 👉trystrikes.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gracecarrillo&label=Profile%20views&color=0e75b6&style=flat" alt="gracecarrillo" /> </p>
 
